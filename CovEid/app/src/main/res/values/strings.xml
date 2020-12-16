@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CovidCare</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Prevention</string>
+    <string name="title_notifications">Scan QR</string>
+    <string name="title_profile">Profile</string>
+    <string name="home_text">All you need \nis stay at home</string>
+    <string name="dashboard_text">Get to know \nabout Covid-19</string>
+    <string name="locateHealthText">Locate \nHealth \nScreening</string>
+    <string name="arrow">></string>
+    <string name="not_register"><u>Not Register Yet?</u></string>
+    <string name="already_account"><u>Already have an account?</u></string>
+    <string name="google_map_key">AIzaSyA9qE0NbBpKseBtrl7kadeVofMqQ53yr-k</string>
+    <string name="login"> <b><u>LOGIN</u></b> </string>
+    <string name="register"> <b><u>REGISTER</u></b> </string>
+    <string name="question1">1. Are you exhibiting any of the following symptoms?</string>
+    <string name="fever">\u2022 Fever</string>
+    <string name="sorethroat">\u2022 Sore throat</string>
+    <string name="cough">\u2022 Cough</string>
+    <string name="shortbreath">\u2022 Shortness of breath</string>
+    <string name="question2">2. Have you travelled to any country outside Malaysia in the last 14 days?</string>
+    <string name="question3">3. Have you had close contact with a COVID-19 patient in the last 14 days?</string>
+    <string name="question4">4. Have you attended an event or visited any area which was reported to have suspected or confirmed COVID-19 case in Malaysia?</string>
+</resources>

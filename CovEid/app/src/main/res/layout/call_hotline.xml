@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CallHotlineJava">
+
+
+    <EditText
+        android:id="@+id/edit_textnumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="inputType"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="147dp"/>
+
+    <ImageView
+        android:id="@+id/image_call"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/ic_calling"/>
+
+</RelativeLayout>
